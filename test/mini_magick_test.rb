@@ -1,3 +1,4 @@
+require "byebug"
 require "test_helper"
 require "image_processing/mini_magick"
 require "pathname"
